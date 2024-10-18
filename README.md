@@ -1,4 +1,4 @@
-# iCal - Android IOS Calculator
+# iCal - Android iOS Calculator
 KOSURU VISHNU VARDHAN 
 AM.EN.U4CSE21032
 
